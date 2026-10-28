@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "https://www.vexio.com/(.*)",
+      "destination": "https://vexio.com/$1",
+      "permanent": true
+    }
+  ]
+}
