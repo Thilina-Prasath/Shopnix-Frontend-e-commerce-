@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://shopnix.com/$1",
+      "destination": "/index.html",
       "permanent": true
     }
   ]
