@@ -7,8 +7,8 @@
   ],
   "redirects": [
     {
-      "source": "https://www.vexio.com/(.*)",
-      "destination": "https://vexio.com/$1",
+      "source": "/(.*)",
+      "destination": "https://shopnix.com/$1",
       "permanent": true
     }
   ]
